@@ -1,3 +1,4 @@
+# Function to check whether a string is a palindrome
 def check_palindrome(text):
     return text == text[::-1]
 

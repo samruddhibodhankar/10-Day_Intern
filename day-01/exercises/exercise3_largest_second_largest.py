@@ -1,3 +1,5 @@
+# Find the largest and second-largest numbers from the input
+
 numbers = list(map(int, input("Enter numbers separated by spaces: ").split()))
 
 largest = numbers[0]

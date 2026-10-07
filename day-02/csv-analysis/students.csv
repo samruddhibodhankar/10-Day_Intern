@@ -1,0 +1,51 @@
+id,name,course,city,marks
+101,Arav Sharma,Python,Nagpur,85
+102,Priya Patil,Java,Pune,78
+103,Rahul Joshi,Python,Nashik,91
+104,Sneha Kulkarni,Data Science,Mumbai,88
+105,Vikram Deshmukh,Java,Aurangabad,67
+106,Neha Joshi,Data Science,Nagpur,94
+107,Aditya More,Python,Pune,73
+108,Kavya Shah,Java,Nashik,82
+109,Rohan Pawar,Python,Mumbai,59
+110,Isha Mehta,Data Science,Aurangabad,76
+111,Omkar Jadhav,Python,Nagpur,89
+112,Ananya Desai,Java,Pune,
+113,Riya Kapoor,Data Science,Mumbai,92
+114,Manav Kulkarni,Python,Nashik,64
+115,Arjun Patil,Java,Aurangabad,71
+116,Meera Joshi,Data Science,Pune,87
+117,Akash Shinde,Python,Mumbai,69
+118,Pooja More,Java,Nagpur,81
+119,Nikhil Pawar,Python,Aurangabad,75
+120,Sakshi Desai,Data Science,Nashik,90
+121,Harsh Vaidya,Java,Mumbai,63
+122,Anjali Patil,Python,Pune,86
+123,Rohit Shinde,Data Science,Nagpur,79
+124,Komal Jadhav,Java,Aurangabad,72
+125,Sameer Joshi,Python,Nashik,93
+126,Swati More,Data Science,Mumbai,84
+127,Tejas Pawar,Java,Pune,68
+128,Payal Shah,Python,Nagpur,77
+129,Abhishek Deshmukh,Data Science,Aurangabad,91
+130,Neel Kulkarni,Java,Nashik,74
+131,Shreya Patil,Python,Mumbai,88
+132,Varun Joshi,Data Science,Pune,82
+133,Manasi More,Java,Nagpur,95
+134,Kunal Jadhav,Python,Aurangabad,61
+135,Divya Shah,Data Science,Nashik,89
+136,Pranav Pawar,Java,Mumbai,70
+137,Simran Desai,Python,Pune,83
+138,Mayur Shinde,Data Science,Nagpur,96
+139,Aditi Kulkarni,Java,Aurangabad,80
+140,Siddhant More,Python,Nashik,66
+141,Rutuja Patil,Data Science,Mumbai,78
+142,Yash Joshi,Java,Pune,85
+143,Mitali Deshmukh,Python,Nagpur,92
+144,Aniket Pawar,Data Science,Aurangabad,74
+145,Vaishnavi Shah,Java,Nashik,87
+146,Gaurav Jadhav,Python,Mumbai,69
+147,Chaitanya More,Data Science,Pune,91
+148,Amruta Patil,Java,Nagpur,76
+149,Sagar Kulkarni,Python,Aurangabad,84
+150,Neha Joshi,Data Science,Nagpur,94

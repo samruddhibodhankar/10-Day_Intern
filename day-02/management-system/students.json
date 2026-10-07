@@ -1,0 +1,82 @@
+[
+    {
+        "id": 101,
+        "name": "Arav Sharma",
+        "age": 22,
+        "city": "Nagpur",
+        "course": "Python",
+        "marks": 85
+    },
+    {
+        "id": 102,
+        "name": "Priya Patil",
+        "age": 21,
+        "city": "Pune",
+        "course": "Java",
+        "marks": 78
+    },
+    {
+        "id": 103,
+        "name": "Rahul Joshi",
+        "age": 23,
+        "city": "Nashik",
+        "course": "Python",
+        "marks": 91
+    },
+    {
+        "id": 104,
+        "name": "Sneha Kulkarni",
+        "age": 20,
+        "city": "Mumbai",
+        "course": "Data Science",
+        "marks": 88
+    },
+    {
+        "id": 105,
+        "name": "Vikram Deshmukh",
+        "age": 22,
+        "city": "Aurangabad",
+        "course": "Java",
+        "marks": 67
+    },
+    {
+        "id": 106,
+        "name": "Neha Joshi",
+        "age": 21,
+        "city": "Nagpur",
+        "course": "Data Science",
+        "marks": 94
+    },
+    {
+        "id": 107,
+        "name": "Aditya More",
+        "age": 24,
+        "city": "Pune",
+        "course": "Python",
+        "marks": 73
+    },
+    {
+        "id": 108,
+        "name": "Kavya Shah",
+        "age": 20,
+        "city": "Nashik",
+        "course": "Java",
+        "marks": 82
+    },
+    {
+        "id": 109,
+        "name": "Rohan Pawar",
+        "age": 23,
+        "city": "Mumbai",
+        "course": "Python",
+        "marks": 59
+    },
+    {
+        "id": 110,
+        "name": "Isha Mehta",
+        "age": 21,
+        "city": "Aurangabad",
+        "course": "Data Science",
+        "marks": 76
+    }
+]
